@@ -5,12 +5,12 @@
 ---
 
 ## Table of Contents
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
+* [Base](#TableOfContents)
+* [Mount](#Base)
+* [Fork](#Mount)
 * [Tire](#Fork)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleandCollar)
+* [Wheel](#Tire)
+* [AxleCollarBearings](#Wheel)
 
 
 
