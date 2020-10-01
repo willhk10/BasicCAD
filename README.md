@@ -8,7 +8,7 @@
 * [Base](#Base)
 * [Mount](#Mount)
 * [Fork](#Fork)
-* [Tire](#Tire)
+* [Tire](#Fork)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleandCollar)
 
