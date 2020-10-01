@@ -14,6 +14,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Wheel](#Tire)
 * [AxleCollarBearings](#Wheel)
 * [Caster](#Caster)
+* [Takeaway / Final Thoughts](#Takeaway)
 
 
 
@@ -49,5 +50,11 @@ Learning how to do the new mates was actually really fun and I learned how to do
 ## Caster
 <img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="400" height="400">
 This was overall an extremely fun project and I had a lot of fun remaking all the pieces in Onshape rather than Solidworks. I really enjoyed the different ways that you import standard items and mate things.
+
+
+## Takeaway
+
+In the end, I learned so much about Onshape. I learned how to use the new mates, how to sketch, extrude, revolve, and almost all the basics of Onshape. I prefer Onshape over Solidworks because it is much more friendly to beginners, and it is much easier to get things done.
+
 
  ### [BACK TO TOP](#Base)
