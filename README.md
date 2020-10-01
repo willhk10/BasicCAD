@@ -48,4 +48,4 @@ Learning how to do the new mates was actually really fun and I learned how to do
 <img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="400" height="400">
 This was overall an extremely fun project and I had a lot of fun remaking all the pieces in Onshape rather than Solidworks. I really enjoyed the different ways that you import standard items and mate things.
 
-*[BACK TO TOP](## TableOfContents)
+* [BACK TO TOP](## TableOfContents)
