@@ -91,7 +91,7 @@ This was overall an extremely fun project and I had a lot of fun remaking all th
 
 # Takeaway
 
-In the end, I learned so much about Onshape. I learned how to use the new mates, how to sketch, extrude, revolve, and almost all the basics of Onshape. I prefer Onshape over Solidworks because it is much more friendly to beginners, and it is much easier to get things done.
+In the end, I learned so much about Onshape. I learned how to use the new mates, how to sketch, extrude, revolve, and almost all the basics of Onshape. I prefer Onshape over Solidworks because it is much more friendly to beginners, and it is much easier to get things done. One thing that I would like to avoid next time is using the wrong parts of a sketch as dimension material. This can be easily avoided by just double checking your work
 
 
  # [BACK TO TOP](#Base)
