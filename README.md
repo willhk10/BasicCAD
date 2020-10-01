@@ -9,7 +9,7 @@
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
-* [AxleCollarBearings](#Axel and Collar)
+* [AxleCollarBearings](#AxleandCollar)
 
 
 
