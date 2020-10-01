@@ -1,3 +1,4 @@
+
 # BasicCAD
 <img src="Pictures/Yes/meme.png" alt="alt text" width="100" height="100">
 
@@ -23,3 +24,12 @@ This part was also very simple, as it used the revolve feature. I spent roughly 
 
 ## Axel and Collar
 <img src="Pictures/Yes/AxelandCollarEngineering.png" alt="alt text" width="400" height="400">
+This was very simple, as it was basically just two extruded concentric circles.
+
+## Wheel and Axel
+<img src="Pictures/Yes/WheelandAxelEngineering.png" alt="alt text" width="400" height="400">
+Learning how to do the new mates was actually really fun and I learned how to do it extremely fast. I spent probably 15 minutes on it in total.
+
+## Caster
+<img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="400" height="400">
+This was overall an extremely fun project and I had a lot of fun remaking all the pieces in Onshape rather than Solidworks. I really enjoyed the different ways that you import standard items and mate things.
