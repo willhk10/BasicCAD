@@ -41,7 +41,7 @@ The mount was very easy to make. I didn't use the method that Mr. H explained to
 
 ## ***Description***
 
-This part was really easy to make. I remembered exactly how to do it from last year, so it only took about 20 minutes. However, when I dimensioned the distances of the rectangles, I used the wrong pieces of the rectangles and I only noticed this when I got to the assembly.
+This part was really easy to make. I remembered exactly how to do it from last year, so it only took about 20 minutes. However, when I dimensioned the distances of the rectangles, I used the wrong pieces of the rectangles and I only noticed this when I got to the assembly. I accidentally dimensioned the centerline to the middle of the rectangle rather than the side of it.
 
 ---
 # [Tire](https://cvilleschools.onshape.com/documents/38021a99b790bc8086a8d479/w/79e3e6747ae8a860df2d6428/e/364541b5f4b31d74922dffb3)
@@ -76,7 +76,7 @@ This was very simple, as it was basically just two extruded concentric circles.
 
 ## ***Description***
 
-Learning how to do the new mates was actually really fun and I learned how to do it extremely fast. I spent probably 15 minutes on it in total.
+Learning how to do the new mates was actually really fun and I learned how to do it extremely fast. I spent probably 15 minutes on it in total. When I was mating the axel with the wheel, however, I did not select the center of the wheel, resulting in a very slight offset of the axel. This was only apparent when I added on the bearings and one side has extra axel and the other was short. I could barely see this when I was looking at the whole assembly, but when I zoomed in really close and used the measure tool, I could see that there was a small offset. I fixed this by deleting the mate and remating the center of the axel to the proper center of the wheel.
 
 ---
 
