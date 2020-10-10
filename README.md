@@ -96,10 +96,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
 
 
  # [BACK TO TOP](#Base)
- 
- 
- 
- ---
+
  
  # [Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/d2c16952d6642b4a45eb554b/w/4440370332a1807b299e7087/e/acb7cac74f35e6439e6dd6fc)
  <img src="Pictures/Yes/Dorothy Dowel Pins and Frame.png" alt="alt text" width="400" height="400">
