@@ -16,7 +16,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
-* [Dorothy Dowel Pins](#Dorothy's Dowel Pins)
+* [Dorothy's Dowel Pins](#Dorothy's Dowel Pins)
 
 
 
@@ -103,7 +103,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  ---
  
  # [Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/d2c16952d6642b4a45eb554b/w/4440370332a1807b299e7087/e/acb7cac74f35e6439e6dd6fc)
- <img src="Pictures/Yes/Dorothy Dowel Pins.png" alt="alt text" width="400" height="400">
+ <img src="Pictures/Yes/Dorothy Dowel Pins and Frame.png" alt="alt text" width="400" height="400">
  
  ## Description
   This project was quite easy, as I just had to figure out how to make the dowel rods and use configurations, which was much easier than SolidWorks, and then make the frame, which was just basic math and engineering. The only problem that I had was that I didn't make the frame wide enough many times, so the frame was actually bigger than the picture area.
