@@ -15,7 +15,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [AxleCollarBearings](#Wheel)
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
-* [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
+* [Dorothy's Dowel Pins](#DorothyPins)
 
 
 
@@ -98,7 +98,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  # [BACK TO TOP](#Base)
 
  
- # [Dorothy's Dowel Pins](https://cvilleschools.onshape.com/documents/d2c16952d6642b4a45eb554b/w/4440370332a1807b299e7087/e/acb7cac74f35e6439e6dd6fc)
+ # [DorothyPins](https://cvilleschools.onshape.com/documents/d2c16952d6642b4a45eb554b/w/4440370332a1807b299e7087/e/acb7cac74f35e6439e6dd6fc)
  <img src="Pictures/Yes/Dorothy Dowel Pins and Frame.png" alt="alt text" width="400" height="400">
  
  ## Description of Pins
