@@ -15,7 +15,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [AxleCollarBearings](#Wheel)
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
-* [Dorothy's Dowel Pins](##DescriptionofPins)
+* [Dorothy's Dowel Pins](##Description-of-Pins)
 
 
 
