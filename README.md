@@ -16,7 +16,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
-* [Dorothy Dowel Pins ](#Dorothy's Dowel Pins)
+* [Dorothy Dowel Pins](#Dorothy's Dowel Pins)
 
 
 
