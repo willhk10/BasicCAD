@@ -18,17 +18,15 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
----
-
 ## [Dorothy's Dowel Pins](#DorothyPins)
-
----
 
 ## [Circuit Python](#CircuitPython)
 
 
 
 
+#Projects
+----
 
 # Caster
 ---
