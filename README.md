@@ -108,7 +108,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  
 
  
- # [CircuitPython]
+ # CircuitPython
  
  
  
