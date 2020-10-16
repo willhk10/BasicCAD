@@ -15,8 +15,10 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [AxleCollarBearings](#Wheel)
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
-* [Dorothy's Dowel Pins](#DorothyPins)
 
+# [Dorothy's Dowel Pins](#DorothyPins)
+
+# [CircuitPython](#CircuitPython)
 
 
 ---
@@ -106,7 +108,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  
 
  
- 
+ # [CircuitPython]
  
  
  
