@@ -16,7 +16,11 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
+---
+
 # [Dorothy's Dowel Pins](#DorothyPins)
+
+---
 
 # [Circuit Python](#CircuitPython)
 
@@ -106,9 +110,15 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  ## Description of Project
   This project was quite easy, as I just had to figure out how to make the dowel rods and use configurations, which was much easier than SolidWorks, and then make the frame, which was just basic math and engineering. The only problem that I had was that I didn't make the frame wide enough many times, so the frame was actually bigger than the picture area.
  
-
+---
+ 
+ # Assemblies
+ 
+---
+ 
  
  # CircuitPython
+ This week we worked on 
  
  
  
