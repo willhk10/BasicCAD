@@ -22,8 +22,6 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 
 ## [Assemblies Project](#Assemblies)
 
-## [Circuit Python](#CircuitPython)
-
 ---
 ---
 ---
@@ -126,10 +124,6 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  In the week of 1/11/2020, we did an assembly project in OnShape. I didn't learn all that much from this assignment, as we had already used these functions in the assembly for the caster, but it was still good practice for future projects.
  
 ---
- 
- 
- # CircuitPython
- The week of 10/11/20
  
  
  
