@@ -122,6 +122,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  
  # [Assemblies](https://cvilleschools.onshape.com/documents/8e23af001e7c001e0181cd19/w/a23ef92942d0c7291bae280b/e/f76d45acd49338ba1aaa9de3)
  In the week of 1/11/2020, we did an assembly project in OnShape. I didn't learn all that much from this assignment, as we had already used these functions in the assembly for the caster, but it was still good practice for future projects.
+ 
  <img src="Pictures/Yes/Assemblies.png" alt="alt text" width="400" height="400">
 ---
  
