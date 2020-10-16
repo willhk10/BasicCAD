@@ -18,7 +18,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 
 # [Dorothy's Dowel Pins](#DorothyPins)
 
-# [CircuitPython](#CircuitPython)
+# [Circuit Python](#CircuitPython)
 
 
 ---
