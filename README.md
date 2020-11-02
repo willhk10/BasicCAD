@@ -107,7 +107,7 @@ Learning how to do the new mates was actually really fun and I learned how to do
 ---
 
 # [Caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725a31395/w/bd5d2351defea85021d20a5a/e/ca8e8d6df98edfaf2fcfceb1)
-<img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="400" height="400">
+<img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="600" height="400">
 
 ## ***Description***
 
