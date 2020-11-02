@@ -142,7 +142,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
  
 #  [Onshape_Collaboration_Project](https://cvilleschools.onshape.com/documents/138a10bebb31e0d42cb96812/w/07115195b5f2f55e515949ca/e/e84453342b07e8982a5d8853)
   ***Description***
-  In this project, we were put into breakout rooms with a group of people, and the goal was to create an object shown to us, with no dimensions or help provided. I was partnered with Justyn and Nicole, and we delegated out parts to eachother equally. We delegated parts based on relation to eachother. For example, I would not do one half of the plunger while Justyn does the other half, as that makes it very difficult to keep track of things. Therefore, Justyn worked on the Rod and the Bracket, I worked on the chamber and the plunger, and Nicole worked on the Bases and the poles.
+  This was a Collaboration project. We were all put into breakout rooms with a group of people, and the goal was to create an object shown to us, with no dimensions or help provided. I was partnered with Justyn and Nicole, and we delegated out parts to eachother equally. We delegated parts based on relation to eachother. For example, I would not do one half of the plunger while Justyn does the other half, as that makes it very difficult to keep track of things. Therefore, Justyn worked on the Rod and the Bracket, I worked on the chamber and the plunger, and Nicole worked on the Bases and the poles.
   
   <img src="Pictures/Yes/CollaborationEngineering.png" alt="alt text" width="400" height="400">
   
