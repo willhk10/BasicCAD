@@ -89,7 +89,7 @@ This was very simple, as it was basically just two extruded concentric circles. 
 
 ---
 # [Bearing](https://cvilleschools.onshape.com/documents/b252a1dfa20df87376701d0e/w/5fc9867e29fd87ad2aaf4523/e/8b152f7c3da40f0c04645bf2)
-<img src="Pictures/Yes/BearingEngineering.png" alt="alt text" width="400" height="400">
+<img src="Pictures/Yes/BearingEngineering.png" alt="alt text" width="600" height="400">
 
 ***Description***
 
