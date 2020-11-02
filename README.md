@@ -146,6 +146,9 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
   
   <img src="Pictures/Yes/CollaborationEngineering.png" alt="alt text" width="400" height="400">
   
+  #### My Part of the Project
+  <img src="Pictures/Yes/MyPartCollab.png" alt="alt text" width="277" height="400">
+  
   
   
 ---
