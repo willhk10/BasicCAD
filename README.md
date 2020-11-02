@@ -149,12 +149,15 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
   ***Our Take on the Project***
   
  We also had to think about what item we were making, and the practical world uses of it. We thought that this item looked like a vaccuum chamber, but Nicole decided that it was more like a french press than anything. Nonetheless, we decided that it was used to press something together, or to create a seal of some sort.
-  
+ 
+   #### My Part of the Project
+   
   For my part of the Project, I had to create the chamber and the plunger. I did this by communicating to my friends that I was going to make the outer diameter of the chamber 56 mm, and the inside of the chamber 50 mm. This would make the outer diameter of the plunger 50mm, with an inner diameter of 48mm. I then had to make an extruded shaft hole for the pole to go into, and I communicated this to Justyn so he would know how wide to make the shaft for our part. In the end, however, Justyn and I had to work together to finish the bases and cut the circles into them ourselves, as Nicole could not figure it out and we decided to have her follow us and watch along. 
   
-  #### My Part of the Project
- 
   <img src="Pictures/Yes/MyPartCollab.png" alt="alt text" width="277" height="400">
+  
+  #### Lessons Learned - 
+  I learned many things during the course of this project. When I was creating the plunger, I had made it in three parts, with the cylinder being a fourth part. I didn't see anything wrong with this until Mr.H almost had a heart attack looking at all the different parts I had made. I followed him on OnShape with the follow tool, and I watched him add the extrusions to the original one rather than create a new one. This showed me ways that I can streamline the amount of parts I make. *ALSO* I learned that **NAMING PARTS** is one of the most important things that you con do when creating an assembly - It allows for easy access when putting everything into the assembly tab, and it creates for a less hectic work environment.
   
   
   
