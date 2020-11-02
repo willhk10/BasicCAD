@@ -16,6 +16,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Wheel](#Tire)
 * [AxleCollarBearings](#Wheel)
 * [Bearing](#Bearing)
+* [Wheel And Axel](#Wheel_And_Axel)
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
@@ -97,7 +98,7 @@ This was the most simple part of all of the parts I created for the Caster. It w
 
 ---
 
-# [Wheel and Axel](https://cvilleschools.onshape.com/documents/851d373919ec8b08767eca46/w/10bab2ed09746d293d2c519a/e/8f4c1beb489d9aea29b5063f)
+# [Wheel_and_Axel](https://cvilleschools.onshape.com/documents/851d373919ec8b08767eca46/w/10bab2ed09746d293d2c519a/e/8f4c1beb489d9aea29b5063f)
 <img src="Pictures/Yes/WheelandAxelEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
