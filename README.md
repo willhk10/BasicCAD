@@ -144,7 +144,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
   ***Description***
   In this project, we were put into breakout rooms with a group of people, and the goal was to create an object shown to us, with no dimensions or help provided. I was partnered with Justyn and Nicole, and we delegated out parts to eachother equally. We delegated parts based on relation to eachother. For example, I would not do one half of the plunger while Justyn does the other half, as that makes it very difficult to keep track of things. Therefore, Justyn worked on the Rod and the Bracket, I worked on the chamber and the plunger, and Nicole worked on the Bases and the poles.
   
-  <img src="Pictures/Yes/CollaborationEngineering.png" alt="alt text" width="700" height="400">
+  <img src="Pictures/Yes/CollaborationEngineering.png" alt="alt text" width="400" height="400">
   
   
   
