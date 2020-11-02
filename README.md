@@ -3,7 +3,7 @@
 <img src="Pictures/Yes/meme.png" alt="alt text" width="100" height="100">
 
 ```diff
-text in red
+- text in red
 
 ```
 ---
