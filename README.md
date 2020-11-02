@@ -77,7 +77,7 @@ This part took less than 5 minutes to make. I remembered the revolve function an
 
 ## ***Description***
 
-This part was also very simple, as it used the revolve feature. I spent roughly 5 minutes on this part, and all that was challenging was getting the mates and making the shape fully constrained.
+This part was also very simple, as it used the revolve feature. I spent roughly 5 minutes on this part, and all that was challenging was getting the mates and making the shape fully constrained. Also, I had to create a small arc that acted as the top of the trapezoid that was used as the wheel cutout.
 
 ---
 
