@@ -1,10 +1,6 @@
 
 # BasicCAD
 <img src="Pictures/Yes/meme.png" alt="alt text" width="100" height="100">
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
 ---
 
 <span style="color: red;">I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725a31395/w/bd5d2351defea85021d20a5a/e/ca8e8d6df98edfaf2fcfceb1) again, but in a different software. Kind of like going from French to Spanish.</span> .
