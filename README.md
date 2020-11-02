@@ -15,6 +15,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 * [Tire](#Fork)
 * [Wheel](#Tire)
 * [AxleCollarBearings](#Wheel)
+* [Bearing](#Bearing)
 * [Caster](#Caster)
 * [Takeaway / Final Thoughts](#Takeaway)
 
@@ -66,7 +67,7 @@ This part was really easy to make. I remembered exactly how to do it from last y
 
 ## ***Description***
 
-This part took less than 5 minutes to make. I remembered the revolve function and it was very simple sketch-wise.
+This part took less than 5 minutes to make. I remembered the revolve function and it was very simple sketch-wise.The part consisted of may small rectangles that we used the "Trim Entities"Tool to make into a single shape. The distancing was very exact, and I ended up accidentally using the wrong leg on one of the rectangles to distance, which took a few minutes of careful retracing of my steps to uncover.
 
 ---
 
@@ -84,7 +85,15 @@ This part was also very simple, as it used the revolve feature. I spent roughly 
 
 ***Description***
 
-This was very simple, as it was basically just two extruded concentric circles.
+This was very simple, as it was basically just two extruded concentric circles. However, on the axel part, there was one rather difficult part. We had to create a sketch on the end plane of the axel, and there we created a small rectangle that we removed from the axel. I then mirrored it across the middle of the part.
+
+---
+# [Bearing](https://cvilleschools.onshape.com/documents/b252a1dfa20df87376701d0e/w/5fc9867e29fd87ad2aaf4523/e/8b152f7c3da40f0c04645bf2)
+<img src="Pictures/Yes/BearingEngineering.png" alt="alt text" width="400" height="400">
+
+***Description***
+
+This was the most simple part of all of the parts I created for the Caster. It was just a thin ring that had an outer diameter of 30mm and an inner diameter of 20mm
 
 ---
 
