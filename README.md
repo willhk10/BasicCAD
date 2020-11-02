@@ -157,7 +157,7 @@ In the end, I learned so much about Onshape. I learned how to use the new mates,
   <img src="Pictures/Yes/MyPartCollab.png" alt="alt text" width="277" height="400">
   
   #### Lessons Learned - 
-  I learned many things during the course of this project. When I was creating the plunger, I had made it in three parts, with the cylinder being a fourth part. I didn't see anything wrong with this until Mr.H almost had a heart attack looking at all the different parts I had made. I followed him on OnShape with the follow tool, and I watched him add the extrusions to the original one rather than create a new one. This showed me ways that I can streamline the amount of parts I make. *ALSO* I learned that **NAMING PARTS** is one of the most important things that you con do when creating an assembly - It allows for easy access when putting everything into the assembly tab, and it creates for a less hectic work environment.
+  I learned many things during the course of this project. When I was creating the plunger, I had made it in three parts, with the cylinder being a fourth part. I didn't see anything wrong with this until Mr.H almost had a heart attack looking at all the different parts I had made. I followed him on OnShape with the follow tool, and I watched him add the extrusions to the original one rather than create a new one. This showed me ways that I can streamline the amount of parts I make. ***ALSO I learned that NAMING PARTS*** is one of the most important things that you con do when creating an assembly - It allows for easy access when putting everything into the assembly tab, and it creates for a less hectic work environment.
   
   
   
