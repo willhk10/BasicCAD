@@ -43,7 +43,7 @@ I made a [caster](https://cvilleschools.onshape.com/documents/2450def9f817c9f725
 
 ## ***Description***
 
-This was actually a lot easier than I thought it was. I thought that it would be hard on OnShape due to the change of platform, but i got used to it very quickly.
+This was actually a lot easier than I thought it was. I thought that it would be hard on OnShape due to the change of platform, but i got used to it very quickly. This part was a rectangle that was extruded 8mm, with 6 holes spread evenly across the face of the part.
 
 
 ---
@@ -52,7 +52,7 @@ This was actually a lot easier than I thought it was. I thought that it would be
 
 ## ***Description***
 
-The mount was very easy to make. I didn't use the method that Mr. H explained to me as I thought it was a bit confusing and I didn't want to mess it up. I ended up just making a new part and copying over the dimensions and sketch geometry.
+The mount was very easy to make. I didn't use the method that Mr. H explained to me as I thought it was a bit confusing and I didn't want to mess it up. I ended up just making a new part and copying over the dimensions and sketch geometry. It was just a rectangle with holes spaced out evenly across to allow for the base to fully support the fork and wheel in the final product.
 
 ---
 # [Fork](https://cvilleschools.onshape.com/documents/589f920685521cb794707851/w/2c120b6b5092ad41d9c81965/e/22497d4e152375cd2abb89d0)
