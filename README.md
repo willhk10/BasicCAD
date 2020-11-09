@@ -42,8 +42,9 @@
 <img src="Pictures/Yes/BaseEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
-This was actually a lot easier than I thought it was. I thought that it would be hard on OnShape due to the change of platform, but i got used to it very quickly. This part was a rectangle that was extruded 8mm, with 6 holes spread evenly across the face of the part.
+This part was a rectangle (200 x 120 mm) that was extruded 8mm, with 6 10mm wide holes spread evenly across the face of the part. There was also a 25mm center hole.
+## ***Reflection***
+This was actually a lot easier than I thought it was. I thought that it would be hard on OnShape due to the change of platform, but i got used to it very quickly. 
 
 
 ---
