@@ -80,6 +80,8 @@ This part took less than 5 minutes to make. I remembered the revolve function an
 <img src="Pictures/Yes/WheelEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
+This part is the second piece of the full wheel, the sketch for the wheel rim was relatively similar to that of the sketch of the tire, however, there was a thin rectangle in the middle of the wheel where the tire had empty. After revolving the shape around the centerline, make 1 cutout for the spokes, and repeat it with a circular pattern, and make 5 repetitions.
+## ***Reflection***
 This part was also very simple, as it used the revolve feature. I spent roughly 5 minutes on this part, and all that was challenging was getting the mates and making the shape fully constrained. Also, I had to create a small arc that acted as the top of the trapezoid that was used as the wheel cutout.
 
 ---
@@ -88,8 +90,8 @@ This part was also very simple, as it used the revolve feature. I spent roughly 
 <img src="Pictures/Yes/AxelandCollarEngineering.png" alt="alt text" width="400" height="400">
 
 ***Description***
-
 This was very simple, as it was basically just two extruded concentric circles. However, on the axel part, there was one rather difficult part. We had to create a sketch on the end plane of the axel, and there we created a small rectangle that we removed from the axel. I then mirrored it across the middle of the part.
+***Reflection***
 
 ---
 # [Bearing](https://cvilleschools.onshape.com/documents/b252a1dfa20df87376701d0e/w/5fc9867e29fd87ad2aaf4523/e/8b152f7c3da40f0c04645bf2)
