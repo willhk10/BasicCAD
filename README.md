@@ -120,7 +120,8 @@ Learning how to do the new mates was actually really fun and I learned how to do
 <img src="Pictures/Yes/CasterEngineering.png" alt="alt text" width="600" height="400">
 
 ## ***Description***
-
+To start, insert all of the parts you made into an assembly, as you did for the wheel and axle. When you do this, you mate everything using either fastens or revolutes, and eventually you will need to insert the nuts and bolts into the assembly. In order to do this, you must insert general parts, and find the size that fits the holes that you created. These nuts will be holding together the base and the mount. Mate the nuts and bolts in place, pull out one more nut that will fit over the large fork rod, and you're done.
+## ***Reflection***
 This was overall an extremely fun project and I had a lot of fun remaking all the pieces in Onshape rather than Solidworks. I really enjoyed the different ways that you import standard items and mate things.
 
 ---
