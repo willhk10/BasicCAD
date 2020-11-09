@@ -52,15 +52,17 @@ This was actually a lot easier than I thought it was. I thought that it would be
 <img src="Pictures/Yes/MountEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
-The mount was very easy to make. I didn't use the method that Mr. H explained to me as I thought it was a bit confusing and I didn't want to mess it up. I ended up just making a new part and copying over the dimensions and sketch geometry. It was just a rectangle with holes spaced out evenly across to allow for the base to fully support the fork and wheel in the final product.
+It was just a square with holes spaced out evenly across to allow for the base to fully support the fork and wheel in the final product. This part will be mounted on the Base using nuts and bolts. It is a 100x100x8mm part. The holes are 10mm wide, and 20mm from each corner. There is also a 25mm center hole.
+## ***Reflection***
+The mount was very easy to make. I didn't use the method that Mr. H explained to me as I thought it was a bit confusing and I didn't want to mess it up. I ended up just making a new part and copying over the dimensions and sketch geometry. 
 
 ---
 # [Fork](https://cvilleschools.onshape.com/documents/589f920685521cb794707851/w/2c120b6b5092ad41d9c81965/e/22497d4e152375cd2abb89d0)
 <img src="Pictures/Yes/ForkEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
+This part is the part that would actually hold the wheel in the final caster assembly. There is a main 80mm circle. 8mm thick, with 2 rectangular arms that are 75mm long. There is also a pole coming out of the bottom of the fork that will fit into the center hole in the base and mount.
+## ***Reflection***
 This part was really easy to make. I remembered exactly how to do it from last year, so it only took about 20 minutes. However, when I dimensioned the distances of the rectangles, I used the wrong pieces of the rectangles and I only noticed this when I got to the assembly. I accidentally dimensioned the centerline to the middle of the rectangle rather than the side of it.
 
 ---
@@ -68,7 +70,8 @@ This part was really easy to make. I remembered exactly how to do it from last y
 <img src="Pictures/Yes/TireEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
+The tire  will be attached to the wheel rim, which is going to be the full wheel, attached to the fork and able to revolve freely. When creating the trapezoid, with a 20mm bottom edge, and a 10 degree angle side from the construction line. The diameter of the inner wheel should be 80 mm, with outer edges being 110mm. After revolving the trapezoid, make sure to add an 8mm fillet.
+## ***Reflection***
 This part took less than 5 minutes to make. I remembered the revolve function and it was very simple sketch-wise.The part consisted of may small rectangles that we used the "Trim Entities"Tool to make into a single shape. The distancing was very exact, and I ended up accidentally using the wrong leg on one of the rectangles to distance, which took a few minutes of careful retracing of my steps to uncover.
 
 ---
@@ -77,7 +80,6 @@ This part took less than 5 minutes to make. I remembered the revolve function an
 <img src="Pictures/Yes/WheelEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
 This part was also very simple, as it used the revolve feature. I spent roughly 5 minutes on this part, and all that was challenging was getting the mates and making the shape fully constrained. Also, I had to create a small arc that acted as the top of the trapezoid that was used as the wheel cutout.
 
 ---
