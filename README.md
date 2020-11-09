@@ -8,7 +8,7 @@
 
 # Table of Contents
 
-### Caster
+Caster
 * [Base](#TableOfContents)
 * [Mount](#Base)
 * [Fork](#Mount)
@@ -19,12 +19,9 @@
 * [Wheel And Axel](#Wheel_And_Axel)
 * [Caster](#FinalCaster)
 * [Takeaway / Final Thoughts](#Takeaway)
-
-## [Dorothy's Dowel Pins](#DorothyPins)
-
-## [Assemblies Project](#Assemblies)
-
-## [Onshape Collaboration](#Onshape_Collaboration_Project)
+* [Dorothy's Dowel Pins](#DorothyPins)
+* [Assemblies Project](#Assemblies)
+* [Onshape Collaboration](#Onshape_Collaboration_Project)
 
 ---
 ---
