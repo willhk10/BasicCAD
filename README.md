@@ -89,17 +89,20 @@ This part was also very simple, as it used the revolve feature. I spent roughly 
 # [Axel and Collar](https://cvilleschools.onshape.com/documents/73daea957b6c062132ca7f00/w/d8869b87d0efb7d846261d64/e/2dcb009edddb363913bfc083)
 <img src="Pictures/Yes/AxelandCollarEngineering.png" alt="alt text" width="400" height="400">
 
-***Description***
+## ***Description***
+The axle is a 60mm pipe, the collar is a 10mm long cylinder with an inner d of 10mm, and an outer d of 25mm. These parts are going to support the wheel on the fork, and they will also keep the fork from sliding.
+## ***Reflection***
 This was very simple, as it was basically just two extruded concentric circles. However, on the axel part, there was one rather difficult part. We had to create a sketch on the end plane of the axel, and there we created a small rectangle that we removed from the axel. I then mirrored it across the middle of the part.
-***Reflection***
+
 
 ---
 # [Bearing](https://cvilleschools.onshape.com/documents/b252a1dfa20df87376701d0e/w/5fc9867e29fd87ad2aaf4523/e/8b152f7c3da40f0c04645bf2)
 <img src="Pictures/Yes/BearingEngineering.png" alt="alt text" width="600" height="400">
 
-***Description***
-
-This was the most simple part of all of the parts I created for the Caster. It was just a thin ring that had an outer diameter of 30mm and an inner diameter of 20mm
+## ***Description***
+It was just a thin ring that had an outer diameter of 30mm and an inner diameter of 20mm.
+## ***Reflection***
+This was the most simple part of all of the parts I created for the Caster. It was simply two concentric circles. 
 
 ---
 
@@ -107,7 +110,8 @@ This was the most simple part of all of the parts I created for the Caster. It w
 <img src="Pictures/Yes/WheelandAxelEngineering.png" alt="alt text" width="400" height="400">
 
 ## ***Description***
-
+This is where the wheel, tire, axle, and bearing all come together. I used a fasten mate to mate the origin to the middle of the wheel and tire, then used the revolute mate on the middle of the axle to mate it with the hole of the wheel. The revolute mate allows a piece to spin. I also added one bearing to each side.
+## ***Reflection***
 Learning how to do the new mates was actually really fun and I learned how to do it extremely fast. I spent probably 15 minutes on it in total. When I was mating the axel with the wheel, however, I did not select the center of the wheel, resulting in a very slight offset of the axel. This was only apparent when I added on the bearings and one side has extra axel and the other was short. I could barely see this when I was looking at the whole assembly, but when I zoomed in really close and used the measure tool, I could see that there was a small offset. I fixed this by deleting the mate and remating the center of the axel to the proper center of the wheel.
 
 ---
